@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fArq42aJ1+lHlIactgfLRq4u+WpaREnXoFkHUsMiTbv6mDj40nk2dSpdJTOg8tlpcXY7EIHmyMIWKwnTERBomw==",
+  "success": true,
+  "projectFilePath": "C:\\Projetos\\SuperaInovacoes\\SuperaInovacoes.Application\\SuperaInovacoes.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Diego\\.nuget\\packages\\fluentvalidation\\9.1.2\\fluentvalidation.9.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,9 @@
+C:\Projetos\SuperaInovacoes\SuperaInovacoes.Infra.Domain\obj\Debug\netcoreapp3.1\SuperaInovacoes.Domain.AssemblyInfoInputs.cache
+C:\Projetos\SuperaInovacoes\SuperaInovacoes.Infra.Domain\obj\Debug\netcoreapp3.1\SuperaInovacoes.Domain.AssemblyInfo.cs
+C:\Projetos\SuperaInovacoes\SuperaInovacoes.Infra.Domain\obj\Debug\netcoreapp3.1\SuperaInovacoes.Domain.csproj.CoreCompileInputs.cache
+C:\Projetos\SuperaInovacoes\SuperaInovacoes.Infra.Domain\bin\Debug\netcoreapp3.1\SuperaInovacoes.Domain.deps.json
+C:\Projetos\SuperaInovacoes\SuperaInovacoes.Infra.Domain\bin\Debug\netcoreapp3.1\SuperaInovacoes.Domain.dll
+C:\Projetos\SuperaInovacoes\SuperaInovacoes.Infra.Domain\bin\Debug\netcoreapp3.1\SuperaInovacoes.Domain.pdb
+C:\Projetos\SuperaInovacoes\SuperaInovacoes.Infra.Domain\obj\Debug\netcoreapp3.1\SuperaInovacoes.Domain.dll
+C:\Projetos\SuperaInovacoes\SuperaInovacoes.Infra.Domain\obj\Debug\netcoreapp3.1\SuperaInovacoes.Domain.pdb
+C:\Projetos\SuperaInovacoes\SuperaInovacoes.Infra.Domain\obj\Debug\netcoreapp3.1\SuperaInovacoes.Domain.csprojAssemblyReference.cache
